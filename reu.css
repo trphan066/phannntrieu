@@ -1,0 +1,59 @@
+td{
+    width: 50vw;
+    border: 2px solid black;
+    text-align: center;
+   
+}
+table{
+    background-color: aqua;
+    border-collapse: collapse ;
+   
+    
+    
+}
+
+.demo{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: aqua ;
+    display: flex;
+}
+.conc{
+    display: flex;
+    
+}
+.mem{
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(45, 158, 158);
+}
+.po{
+    font-size: x-large;
+}
+.noone{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.bet{
+    font-size: x-large;
+}
+.col{
+    text-align: center;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 2px solid rgb(130, 54, 54);
+    padding: 10px;
+    text-align: left;
+}
+th {
+    background-color: #603131;
+}
